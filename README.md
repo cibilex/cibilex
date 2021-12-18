@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm mehmet</h1>
 <h3 align="center">I am a software developer.I am looking for a job.</h3>
 
-- 🌱 I’m currently learning **Seo**
+- 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **vue,express,quasar,javascript**
 
