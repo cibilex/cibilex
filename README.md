@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm mehmet</h1>
 <h3 align="center">I am a software developer.I am looking for a job.</h3>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Sass**
 
-- 💬 Ask me about **vue,express,quasar,javascript**
+- 💬 Ask me about **vue,express,quasar,javascript,Typescript**
 
 - 📫 How to reach me **Mankurt_archer3@hotmail.com**
 
