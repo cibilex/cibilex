@@ -34,7 +34,7 @@
 <!-- boostrap -->
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  title="boostrap" alt="bootstrap" width="40" height="40"/> </a>  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mankurt543&show_icons=true&locale=en&layout=compact" alt="mankurt543" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cibilex&show_icons=true&locale=en&layout=compact" alt="mankurt543" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mankurt543&show_icons=true&locale=en" alt="mankurt543" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cibilex&show_icons=true&locale=en" alt="mankurt543" /></p>
 
