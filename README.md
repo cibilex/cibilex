@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mehmet</h1>
-<h3 align="center">I am a software developer.I am looking for a job.</h3>
+<h3 align="center">I am a full stack developer.I am looking for a job.</h3>
 
 - 🌱 I’m currently learning **Sass**
 
