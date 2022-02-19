@@ -50,12 +50,5 @@ My Abilities:
 </p>
    
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cibilex&show_icons=true&locale=en&layout=compact" alt="mankurt543" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cibilex&show_icons=true&locale=en" alt="mankurt543" /></p>
-
-[instagram-logo]: https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg
-[instagram-url]: https://instagram.com/eloboostum
-[linkedin-logo]: https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg
-[linkedin-url]: https://linkedin.com/in/mehmet-ilhan-470944211
