@@ -1,5 +1,4 @@
 Hi there, I'm Mehmet. I'm a full-stack developer. I have been typing code for around 3 years and I will keep typing :smile_cat:   
-I am looking for a job.
 
  You can reach me with       
  
