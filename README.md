@@ -1,9 +1,9 @@
 Hi there, I'm Mehmet. I'm a full-stack developer. I have been typing code for around 3 years and I will keep typing :smile_cat:   
 
- You can reach me with       
+Contact me via **[linkeding](https://www.linkedin.com/in/cibilex/ "linkedin")** or **[fiverr](https://www.fiverr.com/cibilex?up_rollout=true 'fiverr')**   
  
-<a href="https://linkedin.com/in/mehmet-ilhan-470944211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="linkedin" height="30" width="40" /></a>
-<a href="https://instagram.com/eloboostum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eloboostum" height="30" width="40" /></a>      
+<!-- <a href="https://linkedin.com/in/mehmet-ilhan-470944211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="linkedin" height="30" width="40" /></a>
+<a href="https://instagram.com/eloboostum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eloboostum" height="30" width="40" /></a>       -->
 
 My Abilities:
 - Frontend Development
