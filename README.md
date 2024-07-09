@@ -3,7 +3,7 @@
 
 
 🔧 **Skills**:
-- **Frontend**: Vue, Nuxt, Quasar, Tailwind, UnoCSS, Bootstrap
+- **Frontend**: Vue, Nuxt, Quasar, Tailwind, UnoCSS, Bootstrapp
 - **Backend**: NodeJS, NestJS, Fastify, Express,GraphQL
 - **Design**: Figma, Canva
 - **Databases**: SQL, NoSQL (MongoDB, Redis)
