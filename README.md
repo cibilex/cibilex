@@ -6,7 +6,7 @@
 - **Frontend**: Vue, Nuxt, Quasar, Tailwind, UnoCSS, Bootstrap
 - **Backend**: NodeJS, NestJS, Fastify, Express,GraphQL
 - **Design**: Figma, Canva
-- **Databases**: SQL, NoSQL (MongoDB, Redis)
+- **Databases**: SQL(MariaDB,PostgreSQL), NoSQL (MongoDB, Redis)
 - **DevOps**: Docker, Git, GitHub,GitLab
 
 
