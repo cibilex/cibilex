@@ -7,7 +7,7 @@
 - **Backend**: NodeJS, NestJS, Fastify, Express,GraphQL
 - **Design**: Figma, Canva
 - **Databases**: SQL(MariaDB,PostgreSQL), NoSQL (MongoDB, Redis)
-- **DevOps**: Docker, Git, GitHub,GitLab
+- **DevOps**: Docker, Git, GitHub
 
 
 📫 Let's connect:  [LinkedIn](https://www.linkedin.com/in/cibilex) | [Medium](https://medium.com/@cibilex)
