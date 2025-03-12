@@ -3,9 +3,9 @@
 
 
 🔧 **Skills**:
-- **Frontend**:HTML,CSS,SASS, Quasar, Tailwind, UnoCSS, Bootstrap
+- **Frontend**:HTML,CSS,SASS, Quasar, Tailwind, UnoCSS, Bootstrap,Motion
     - Vue,Pinia,Vue router,Vue-i18n,Vueuse,Vuex,Vuetify,PrimeVue,Quasar
-    -  React,Zustand,Mui,React Router,Tanstack Router
+    -  React,Zustand,Mui,React Router,TanStack Router,TanStack Query
 - **Backend**: NodeJS, NestJS, Fastify, Express,GraphQL
 - **Design**: Figma, Canva
 - **Databases**: SQL(MariaDB,PostgreSQL), NoSQL (MongoDB, Redis)
