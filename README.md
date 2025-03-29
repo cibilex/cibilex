@@ -7,9 +7,10 @@
     - Vue,Pinia,Vue router,Vue-i18n,Vueuse,Vuex,Vuetify,PrimeVue,Quasar
     -  React,Zustand,Mui,React Router,TanStack Router,TanStack Query,ShadCN,TanStack Router
 - **Backend**: NodeJS, NestJS, Fastify, Express,GraphQL
-- **Design**: Figma, Canva
 - **Databases**: SQL(MariaDB,PostgreSQL), NoSQL (MongoDB, Redis)
 - **DevOps**: Docker, Git, GitHub
+- **Design**: Figma, Canva
+- **Test**: Vitest,Jest
 
 
 📫 Let's connect:  [LinkedIn](https://www.linkedin.com/in/cibilex) | [Medium](https://medium.com/@cibilex)
