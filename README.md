@@ -11,6 +11,7 @@
 - **DevOps**: Docker, Git, GitHub
 - **Design**: Figma, Canva
 - **Test**: Vitest,Jest
+- **Validation**: AJV,Zod
 
 
 📫 Let's connect:  [LinkedIn](https://www.linkedin.com/in/cibilex) | [Medium](https://medium.com/@cibilex)
