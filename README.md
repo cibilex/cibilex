@@ -8,7 +8,7 @@
     -  React,Zustand,Mui,React Router,TanStack Router,TanStack Query,ShadCN,TanStack Router
 - **Backend**: NodeJS, NestJS, Fastify, Express,GraphQL
 - **Databases**: SQL(MariaDB,PostgreSQL), NoSQL (MongoDB, Redis)
-- **DevOps**: Docker, Git, GitHub
+- **DevOps**: Docker, Git, GitHub,CI/CD
 - **Design**: Figma, Canva
 - **Test**: Vitest,Jest
 - **Validation**: AJV,Zod,Yup,class-validator
