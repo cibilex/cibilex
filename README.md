@@ -7,7 +7,7 @@
     - Vue,Pinia,Vue router,Vue-i18n,Vueuse,Vuex,Vuetify,PrimeVue,Quasar
     -  React,Zustand,Mui,React Router,TanStack Router,TanStack Query,ShadCN,TanStack Router,
 - **Backend**: NodeJS, NestJS, Fastify, Express,GraphQL
-- **Databases**: SQL(MariaDB,PostgreSQL), NoSQL (MongoDB, Redis),Supabase
+- **Databases**: SQL(MariaDB,MySQL,PostgreSQL), NoSQL (MongoDB, Redis),Supabase
 - **DevOps**: Docker, Git, GitHub,CI/CD(Github Actions,git hooks),AWS(EC2,ECS,S3)
 - **Design**: Figma, Canva,Lovable
 - **Test**: Vitest,Jest
